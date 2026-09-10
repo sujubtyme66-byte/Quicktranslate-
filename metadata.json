@@ -1,0 +1,11 @@
+{
+  "name": "QuickTranslate",
+  "description": "Professional AI video and audio language translation tool to transcribe, translate, and dub video content across languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
